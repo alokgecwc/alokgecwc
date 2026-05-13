@@ -21,7 +21,7 @@
 A college portal for managing notices, updates, and documents efficiently.  
 Includes admin features, file uploads, and structured content delivery.
 
-🔗 GitHub Repo: https://github.com/OLD-USERNAME/gecwc-portal  
+🔗 GitHub Repo: https://github.com/gecwcupdates/gecwc-portal  
 
 ---
 
